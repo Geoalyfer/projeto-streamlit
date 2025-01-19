@@ -1,5 +1,4 @@
 [project]
-package-mode = false
 name = "projeto-pratico"
 version = "0.1.0"
 description = ""
