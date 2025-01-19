@@ -1,7 +1,7 @@
 [project]
 name = ""
 version = "0.1.0"
-description = ""
+description = "projeto-pratico"
 authors = [
     {name = "geoalyfer",email = "alyssonge@yahoo.com.br"}
 ]
