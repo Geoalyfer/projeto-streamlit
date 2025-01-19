@@ -5,7 +5,6 @@ description = ""
 authors = [
     {name = "geoalyfer",email = "alyssonge@yahoo.com.br"}
 ]
-readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "streamlit (>=1.41.1,<2.0.0)",
